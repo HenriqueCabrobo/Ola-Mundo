@@ -87,4 +87,9 @@ Sitações:
 
 Utiliza-se o @ para marca uma pessoa na Issues.
 
+Reply:
+
+Com o sinal de >, faz o reply nas Issues. Também tem uma opção nos 3 pontinhos da mensagem, só clicar e escolher Quote Reply.
+
+> Quem respondeu??
 
